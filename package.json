@@ -21,7 +21,8 @@
     "jquery": "^3.3.1",
     "normalize.css": "^8.0.0",
     "postcss-import": "^12.0.1",
-    "postcss-mixins": "^6.2.0"
+    "postcss-mixins": "^6.2.0",
+    "webpack": "^4.25.1"
   },
   "devDependencies": {
     "autoprefixer": "^9.3.1",
@@ -31,7 +32,9 @@
     "gulp-rename": "^1.4.0",
     "gulp-svg-sprite": "^1.5.0",
     "gulp-watch": "^5.0.1",
+    "postcss-hexrgba": "^1.0.1",
     "postcss-nested": "^4.1.0",
-    "postcss-simple-vars": "^5.0.1"
+    "postcss-simple-vars": "^5.0.1",
+    "webpack-cli": "^3.1.2"
   }
 }
