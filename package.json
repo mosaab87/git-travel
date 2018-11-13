@@ -22,6 +22,8 @@
     "normalize.css": "^8.0.0",
     "postcss-import": "^12.0.1",
     "postcss-mixins": "^6.2.0",
+    "waypoint": "^0.2.8",
+    "waypoints": "^4.0.1",
     "webpack": "^4.25.1"
   },
   "devDependencies": {
